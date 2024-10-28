@@ -1,0 +1,74 @@
+﻿  Buttons.cpp
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\Buttons.cpp(39,37): warning C4305: 'argument': truncation from 'double' to 'float'
+  genre_button.cpp
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\genre_button.cpp(34,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\genre_button.cpp(42,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\genre_button.cpp(43,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Helperbutton.cpp
+  m.cpp
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\m.cpp(22,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\m.cpp(23,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\m.cpp(24,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\m.cpp(25,54): warning C4305: 'argument': truncation from 'double' to 'float'
+  Main.cpp
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.h(37,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.h(38,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  system.cpp
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.h(37,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.h(38,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(11,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(12,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(258,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(333,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(333,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(345,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(407,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(418,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(419,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(420,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(421,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(435,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(457,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(458,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(459,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(460,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(461,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(461,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(488,113): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(488,80): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(488,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(489,114): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(489,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(489,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(490,106): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(490,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(491,125): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(491,103): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(491,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(491,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(492,107): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(492,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(492,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(493,105): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(493,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(493,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(494,129): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(494,107): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(494,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(495,129): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(495,106): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(495,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(496,126): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(496,104): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(497,129): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(497,107): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\Movies\system.cpp(497,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+sggd.lib(graphics.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(graphics.obj)' or at ''; linking object as if no debug info
+sggd.lib(GLbackend.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(GLbackend.obj)' or at ''; linking object as if no debug info
+sggd.lib(shader.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(shader.obj)' or at ''; linking object as if no debug info
+sggd.lib(fonts.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(fonts.obj)' or at ''; linking object as if no debug info
+sggd.lib(texture.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(texture.obj)' or at ''; linking object as if no debug info
+sggd.lib(AudioManager.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(AudioManager.obj)' or at ''; linking object as if no debug info
+sggd.lib(lodepng.obj) : warning LNK4099: PDB '' was not found with 'sggd.lib(lodepng.obj)' or at ''; linking object as if no debug info
+  Movies.vcxproj -> C:\Users\nickr\OneDrive\Desktop\Projects\Movies-Search-Engine\bin\Moviesd.exe
